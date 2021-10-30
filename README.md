@@ -12,7 +12,11 @@ Coil Summary with Mean Median Variance ans Standard Deviation
 <img width="399" alt="Screen Shot 2021-10-30 at 6 46 19 PM" src="https://user-images.githubusercontent.com/57809798/139560495-d5908f9e-7988-458a-929a-0ea3f78cc7fe.png">
 
 Lot Summary with Mean Median Variance ans Standard Deviation
+
+
 <img width="493" alt="Screen Shot 2021-10-30 at 6 46 51 PM" src="https://user-images.githubusercontent.com/57809798/139560498-db30b502-3454-4dd1-9990-a955a7a3f0a3.png">
+
+
 TTest
 
 
